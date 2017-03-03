@@ -1,0 +1,15 @@
+{
+  "name": "geo-elements",
+  "keywords": [
+    "element-collection"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "geo-query": "#*",
+    "geo-query-input": "#*",
+    "geo-codec": "#*",
+    "geo-location": "#*",
+    "google-map": "#*",
+    "geofire": "#*"
+  }
+}
